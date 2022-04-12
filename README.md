@@ -10,7 +10,7 @@
 ※유저의 정보를 localstorage에 저장합니다.<br>
 ※유저 정보 저장이 안될땐 hidden으로, 저장이 되면 greeting message를 보여주는 기능입니다.<br>
 ###### todo.js<br>
-※사용자가 원하는 내용을 입력하면 localstorage에 저장됨. 또한 옆에 버튼으로 삭제가 가능함.<br>
+※사용자가 원하는 내용을 입력하면 localstorage에 저장됨. 또한 옆에 버튼으로 삭제가 가능합니다.<br>
 ※localstorage에 저장된 todo를 버튼으로 각각 지울 수 있습니다.<br>
 ###### weather.js<br>
-openweathermap의 API를 사용하여 위치를 기반으로 그 위치에 날씨, 기온을 띄워준다.<br>
+openweathermap의 API를 사용하여 위치를 기반으로 그 위치에 날씨, 기온을 띄워줍니다.<br>
